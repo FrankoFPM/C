@@ -13,7 +13,7 @@ int main()
 {
     struct Persona alumno = {"Franco", "P.M", "U123456789",987654321,"Franco@hotmail.com"};
 
-    printf("Bienvenidos estudiantes al curso de de Arquitectura de Computadoras \n");
+    printf("Bienvenidos estudiantes al curso de Arquitectura de Computadoras \n");
     //Imprimir informacion
     printf("mi nombre es: %s\n",alumno.name);
     printf("mi apellido es: %s\n",alumno.apellidos);
